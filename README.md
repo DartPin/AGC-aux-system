@@ -1,17 +1,19 @@
-# AGC-aux-system
-Вспомогательная система для производства
+# test-app
 
+## Project setup
+```
+npm install
+```
 
-## Инструменты
-1. Vue.js
-2. Vuetify
-3. Axios
-4. Vue-router
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-## Описание приложения
+### Compiles and minifies for production
+```
+npm run build
+```
 
-Приложение является Web-интерфейсом для решения административных и производственных задач. 
-
-## Установка 
-
-для установки в папке с распакованым архивом ввести команду npm install
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
